@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Irshad Alam
 
-<!--
-**aliirshad85939-blip/aliirshad85939-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student interested in software development and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Java
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Data Structures & Algorithms
+
+## 📚 Currently Learning
+
+- Java & DSA
+- Web Development
+
+## 🛠️ Projects
+
+- TravelGo - Travelling Website
+- Java Expense Tracker
+- Snake Game
+- Jarvis Python Voice Assistant
+- Weather Check Project
+
+## 🎯 Goals
+
+To improve my programming skills, build real-world projects, and become a skilled software developer.
+
+## 📫 Connect With Me
+
+- GitHub: @aliirshad85939-blip
+- Linkedin :https://www.linkedin.com/in/irshad-alam-a69445353
