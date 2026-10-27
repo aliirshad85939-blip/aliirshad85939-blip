@@ -32,6 +32,8 @@ I'm a Computer Science Engineering student interested in software development an
 - [Weather Check Project](https://github.com/alirshad85939-blip/Weather-Check-Project) - Weather checking application
 - [Chess Game](https://github.com/alirshad85939-blip/chess-game) - Chess game project
 - [CodeTrack](https://github.com/alirshad85939-blip/CodeTrack) - Java-based coding problem tracker
+- **RealEstate Portal** – Full-stack real estate website built with Java Spring Boot, Thymeleaf, and MySQL. [View Project](https://github.com/aliirshad85939-blip/RealEstate-Spring-Boot)
+-
 ## 🎯 Goals
 
 To improve my programming skills, build real-world projects, and become a skilled software developer.
