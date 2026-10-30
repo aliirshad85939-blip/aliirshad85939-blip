@@ -33,7 +33,7 @@ I'm a Computer Science Engineering student interested in software development an
 - [Chess Game](https://github.com/alirshad85939-blip/chess-game) - Chess game project
 - [CodeTrack](https://github.com/alirshad85939-blip/CodeTrack) - Java-based coding problem tracker
 - **RealEstate Portal** – Full-stack real estate website built with Java Spring Boot, Thymeleaf, and MySQL. [View Project](https://github.com/aliirshad85939-blip/RealEstate-Spring-Boot)
-- "Rock Paper Scissors Game" (https://github.com/alirshad85939-blip/rock-paper-scissors-game) - Responsive game built using HTML, CSS, and JavaScript. "🎮 Live Demo" (https://alirshad85939-blip.github.io/rock-paper-scissors-game/)
+- "Rock Paper Scissors Game" (https://github.com/aliirshad85939-blip/rock-paper-scissors-game) - Responsive game built using HTML, CSS, and JavaScript. "🎮 Live Demo" (https://alirshad85939-blip.github.io/rock-paper-scissors-game/)
 ## 🎯 Goals
 
 To improve my programming skills, build real-world projects, and become a skilled software developer.
